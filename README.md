@@ -19,7 +19,3 @@
 python -m pytest tests/ -q
 ```
 
-## クレジット
-
-- 本作は、mofu-mitsu さんの「yoru-jihanki」（https://github.com/mofu-mitsu/yoru-jihanki）に着想を得て制作しました。
-- 缶の名前や説明文などのテキストは、すべて本作のために書き下ろしたオリジナルです。
